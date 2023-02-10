@@ -5,4 +5,7 @@ Diana
 Amy
 file1
 changes from git local
-
+git stash number 2
+git stash number 3
+git stash number 4
+git stash number 5
